@@ -1,5 +1,7 @@
 {
   "name": "MagiCiencias",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
